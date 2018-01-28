@@ -16,8 +16,10 @@ Makers Academy Weekend Challenge 2 - Takeaway Challenge
  Week 2 - Further OOP, mocking
 
 Challenge - Solo over one weekend - Build a takeaway menu operated from the command line, integrate ordering with the Twilio api text service
- #### User stories
 
+#### User stories
+
+```
 As a customer
 So that I can check if I want to order something
 I would like to see a list of dishes with prices
@@ -33,3 +35,4 @@ I would like to check that the total I have been given matches the sum of the va
 As a customer
 So that I am reassured that my order will be delivered on time
 I would like to receive a text such as "Thank you! Your order was placed and will be delivered before 18:52" after I have ordered
+```
